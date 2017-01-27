@@ -13,6 +13,6 @@ Click the "Download" button in the above right section and select "Download ZIP 
 
 2. Highlight the printer you wish to delete
 
-3. Click the (-) button at the bottom of the white column of printers.
+3. Click the (-) button at the bottom of the list of printers.
 
 4. Do this for each JKM printer.

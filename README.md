@@ -2,7 +2,7 @@
 
 These packages will install the new path to the JKM Library printers.
 
-Click the "Download" button in the above right section and select "Download ZIP file", then click on the .zip file to extract the folder. Go into the Student-Printers-master folder, and then install each package.
+Click the "Download" button in the above right section and click the green "Clone or download" button, choose ZIP, then click on the .zip file to extract the folder. Go into the Student-Printers-master folder, and then install each package.
 
 **Please be sure to delete the previous printers before you install these packages.**
 

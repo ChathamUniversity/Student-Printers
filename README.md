@@ -6,7 +6,8 @@ Click the "Download" button in the above right section and select "Download ZIP 
 
 **Please be sure to delete the previous printers before you install these packages.**
 
-**To uninstall the current JKM printers:**
+
+# To uninstall the current JKM printers:
 
 1. Go to **System Preferences > Printers & Scanners**
 

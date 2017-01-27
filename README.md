@@ -1,4 +1,4 @@
-# Student-Printers
+# Chatham JKM Printer Packages
 
 These packages will install the new path to the JKM Library printers.
 

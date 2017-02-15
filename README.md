@@ -13,6 +13,6 @@ To download the packages, click the green "Clone or download" button in the abov
 
 2. Highlight the printer you wish to delete
 
-3. Click the (-) button at the bottom of the list of printers.
+3. Click the (-) button at the bottom of the list of printers
 
-4. Do this for each JKM printer.
+4. Do this for each JKM printer
